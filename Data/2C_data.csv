@@ -1,0 +1,423 @@
+,super_opeid,instnm,cz,czname,cfips,region,state,Inventors_Actual,Inventors_Actual_pq1,Inventors_Actual_pq2,Inventors_Actual_pq3,Inventors_Actual_pq4,Inventors_Actual_pq5,top5cit_actual
+0,1,University Of Hawaii And Hawaii Community Colleges,34701,Honolulu,15003,4.0,HI,28.0,1.0,3.0,3.0,5.0,16.0,2.0
+1,4,Coast Community College District,38300,Los Angeles,6059,4.0,CA,40.0,5.0,4.0,5.0,7.0,19.0,3.0
+2,13,Kern & North Orange County Community College Districts,38300,Los Angeles,6059,4.0,CA,21.0,3.0,0.0,5.0,4.0,9.0,0.0
+3,16,San Mateo County Community College District,37800,San Francisco,6081,4.0,CA,18.0,3.0,6.0,1.0,3.0,5.0,1.0
+4,19,Foothill-Deanza Community College District,37500,San Jose,6085,4.0,CA,53.0,7.0,1.0,10.0,6.0,29.0,3.0
+5,21,University Of Alaska System,34102,Anchorage,2020,4.0,AK,12.0,0.0,3.0,0.0,6.0,3.0,0.0
+6,22,Spokane And Spokane Falls Community Colleges,38601,Spokane,53063,4.0,WA,10.0,0.0,1.0,1.0,1.0,7.0,0.0
+7,26,University Of Colorado System,28900,Denver,8013,4.0,CO,263.0,4.0,8.0,22.0,46.0,183.0,18.0
+8,27,West Valley-Mission Community College District,37500,San Jose,6085,4.0,CA,26.0,4.0,1.0,2.0,1.0,18.0,0.0
+9,40,Louisiana State University System,3500,Baton Rouge,22033,3.0,LA,76.0,4.0,2.0,11.0,17.0,42.0,1.0
+10,63,University Of South Carolina System,8100,Columbia,45079,3.0,SC,43.0,0.0,7.0,8.0,7.0,21.0,1.0
+11,64,"West Virginia University, West Virginia University Institute Of Technology, West Virginia University - Parkersburg, And Potomac State College",16702,Morgantown,54061,3.0,WV,56.0,4.0,6.0,11.0,13.0,22.0,2.0
+12,71,University Of Nebraska System,28101,Lincoln,31109,2.0,NE,118.0,2.0,9.0,23.0,40.0,44.0,3.0
+13,82,"Minnesota State University System, Century And Various Other Minnesota Community Colleges",21400,St. Cloud,27145,2.0,MN,259.0,11.0,32.0,78.0,78.0,60.0,12.0
+14,85,Certain Colorado Community Colleges,28900,Denver,8001,4.0,CO,42.0,2.0,0.0,7.0,10.0,23.0,3.0
+15,91,"Devry University, Devry Institute Of Technology And Denver Technical College",24300,Chicago,17031,2.0,IL,64.0,10.0,10.0,13.0,20.0,11.0,5.0
+16,94,ITT Technical Institute,14200,Indianapolis,18097,2.0,IN,59.0,6.0,13.0,14.0,15.0,11.0,1.0
+17,97,Ivy Tech Community College Of Indiana System,14200,Indianapolis,18097,2.0,IN,26.0,3.0,6.0,6.0,7.0,4.0,1.0
+18,100,Riverside Community College District,38300,Los Angeles,6065,4.0,CA,14.0,0.0,3.0,5.0,3.0,3.0,1.0
+19,108,University Of Pittsburgh System,16300,Pittsburgh,42003,1.0,PA,144.0,6.0,21.0,24.0,39.0,54.0,4.0
+20,125,University Of Massachusetts System,20800,Springfield,25015,1.0,MA,199.0,9.0,19.0,31.0,41.0,99.0,7.0
+21,129,Harvard University,20500,Boston,25017,1.0,MA,144.0,1.0,5.0,7.0,16.0,115.0,8.0
+22,133,University Of Maine System,20001,Bangor,23019,1.0,ME,70.0,3.0,10.0,12.0,22.0,23.0,0.0
+23,1009,Auburn University,9800,Auburn,1081,3.0,AL,91.0,0.0,5.0,6.0,21.0,59.0,8.0
+24,1051,University Of Alabama,10801,Tuscaloosa,1125,3.0,AL,25.0,0.0,2.0,4.0,8.0,11.0,1.0
+25,1055,University Of Alabama In Huntsville,6000,Huntsville,1089,3.0,AL,23.0,1.0,3.0,2.0,8.0,9.0,0.0
+26,1089,Arkansas Tech University,30000,Russellville,5115,3.0,AR,12.0,0.0,1.0,6.0,4.0,1.0,1.0
+27,1090,Arkansas State University,25900,Jonesboro,5031,3.0,AR,16.0,1.0,0.0,1.0,11.0,3.0,1.0
+28,1108,University Of Arkansas,30300,Fayetteville,5143,3.0,AR,41.0,3.0,2.0,8.0,17.0,11.0,1.0
+29,1117,Azusa Pacific University,38300,Los Angeles,6037,4.0,CA,10.0,1.0,1.0,1.0,0.0,7.0,0.0
+30,1124,Cabrillo College,37500,San Jose,6087,4.0,CA,15.0,2.0,1.0,2.0,2.0,8.0,1.0
+31,1131,California Institute Of Technology,38300,Los Angeles,6037,4.0,CA,118.0,6.0,5.0,10.0,25.0,72.0,13.0
+32,1137,"California State University, Fullerton",38300,Los Angeles,6059,4.0,CA,19.0,1.0,0.0,1.0,4.0,13.0,2.0
+33,1139,"California State University, Long Beach",38300,Los Angeles,6037,4.0,CA,45.0,3.0,4.0,7.0,12.0,19.0,1.0
+34,1143,California Polytechnic State University,38200,Santa Barbara,6079,4.0,CA,250.0,8.0,13.0,22.0,48.0,159.0,19.0
+35,1144,"California State Polytechnic University, Pomona",38300,Los Angeles,6037,4.0,CA,72.0,12.0,6.0,6.0,13.0,35.0,0.0
+36,1146,"California State University, Chico",37300,Chico,6007,4.0,CA,15.0,0.0,0.0,2.0,5.0,8.0,0.0
+37,1147,"California State University, Fresno",37200,Fresno,6019,4.0,CA,10.0,1.0,0.0,2.0,2.0,5.0,0.0
+38,1151,San Diego State University,38000,San Diego,6073,4.0,CA,55.0,4.0,9.0,5.0,13.0,24.0,2.0
+39,1154,San Francisco State University,37800,San Francisco,6075,4.0,CA,19.0,2.0,1.0,1.0,5.0,10.0,1.0
+40,1155,San Jose State University,37500,San Jose,6085,4.0,CA,59.0,5.0,3.0,9.0,13.0,29.0,6.0
+41,1170,Claremont Mckenna College,38300,Los Angeles,6037,4.0,CA,16.0,1.0,0.0,2.0,2.0,11.0,1.0
+42,1171,Harvey Mudd College,38300,Los Angeles,6037,4.0,CA,88.0,1.0,5.0,13.0,12.0,57.0,9.0
+43,1173,Pomona College,38300,Los Angeles,6037,4.0,CA,21.0,1.0,1.0,2.0,0.0,17.0,0.0
+44,1192,Cuesta College,38200,Santa Barbara,6079,4.0,CA,18.0,2.0,3.0,3.0,3.0,7.0,0.0
+45,1219,Long Beach City College,38300,Los Angeles,6037,4.0,CA,10.0,2.0,0.0,1.0,3.0,4.0,0.0
+46,1239,Miracosta College,38000,San Diego,6073,4.0,CA,16.0,4.0,2.0,1.0,6.0,3.0,1.0
+47,1245,Mount San Antonio College,38300,Los Angeles,6037,4.0,CA,20.0,3.0,6.0,2.0,3.0,6.0,2.0
+48,1260,Palomar College,38000,San Diego,6073,4.0,CA,29.0,1.0,2.0,5.0,9.0,12.0,2.0
+49,1261,Pasadena City College,38300,Los Angeles,6037,4.0,CA,24.0,8.0,4.0,4.0,4.0,4.0,0.0
+50,1262,Point Loma Nazarene University,38000,San Diego,6073,4.0,CA,12.0,0.0,0.0,3.0,4.0,5.0,0.0
+51,1280,San Joaquin Delta College,37400,Sacramento,6077,4.0,CA,11.0,1.0,1.0,5.0,2.0,2.0,0.0
+52,1285,Santa Barbara City College,38200,Santa Barbara,6083,4.0,CA,30.0,1.0,4.0,3.0,4.0,18.0,1.0
+53,1286,Santa Monica College,38300,Los Angeles,6037,4.0,CA,19.0,4.0,4.0,3.0,4.0,4.0,0.0
+54,1287,Santa Rosa Junior College,37700,Santa Rosa,6097,4.0,CA,25.0,3.0,1.0,2.0,6.0,13.0,2.0
+55,1290,Sierra College,37400,Sacramento,6061,4.0,CA,18.0,1.0,1.0,4.0,5.0,7.0,1.0
+56,1305,Stanford University,37500,San Jose,6085,4.0,CA,407.0,9.0,18.0,20.0,43.0,317.0,35.0
+57,1312,"University Of California, Berkeley",37800,San Francisco,6001,4.0,CA,456.0,32.0,42.0,33.0,58.0,291.0,17.0
+58,1313,"University Of California, Davis",37400,Sacramento,6113,4.0,CA,175.0,10.0,10.0,28.0,22.0,105.0,3.0
+59,1314,"University Of California, Irvine",38300,Los Angeles,6059,4.0,CA,125.0,8.0,9.0,23.0,24.0,61.0,7.0
+60,1315,"University Of California, Los Angeles",38300,Los Angeles,6037,4.0,CA,226.0,18.0,16.0,13.0,43.0,136.0,8.0
+61,1316,"University Of California, Riverside",38300,Los Angeles,6065,4.0,CA,48.0,3.0,2.0,7.0,9.0,27.0,2.0
+62,1317,"University Of California, San Diego",38000,San Diego,6073,4.0,CA,308.0,20.0,22.0,27.0,57.0,182.0,14.0
+63,1320,"University Of California, Santa Barbara",38200,Santa Barbara,6083,4.0,CA,170.0,4.0,6.0,16.0,31.0,113.0,6.0
+64,1321,"University Of California, Santa Cruz",37500,San Jose,6087,4.0,CA,80.0,5.0,6.0,6.0,14.0,49.0,2.0
+65,1326,Santa Clara University,37500,San Jose,6085,4.0,CA,53.0,1.0,2.0,8.0,2.0,40.0,2.0
+66,1328,University Of Southern California,38300,Los Angeles,6037,4.0,CA,113.0,6.0,8.0,12.0,11.0,76.0,2.0
+67,1329,University Of The Pacific,37400,Sacramento,6077,4.0,CA,17.0,3.0,3.0,4.0,1.0,6.0,0.0
+68,1347,Colorado College,28401,Colorado Springs,8041,4.0,CO,11.0,0.0,0.0,0.0,1.0,10.0,0.0
+69,1348,Colorado School Of Mines,28900,Denver,8059,4.0,CO,106.0,4.0,5.0,20.0,22.0,55.0,2.0
+70,1349,University Of Northern Colorado,28800,Fort Collins,8123,4.0,CO,17.0,3.0,2.0,3.0,3.0,6.0,1.0
+71,1350,Colorado State University,28800,Fort Collins,8069,4.0,CO,107.0,2.0,9.0,19.0,22.0,55.0,5.0
+72,1360,Metropolitan State University Of Denver,28900,Denver,8031,4.0,CO,11.0,1.0,2.0,2.0,2.0,4.0,0.0
+73,1371,University Of Denver,28900,Denver,8031,4.0,CO,29.0,2.0,2.0,0.0,4.0,21.0,1.0
+74,1385,Fairfield University,20901,Bridgeport,9001,1.0,CT,11.0,1.0,0.0,1.0,0.0,9.0,0.0
+75,1417,University Of Connecticut,20901,Bridgeport,9013,1.0,CT,95.0,1.0,4.0,15.0,19.0,56.0,2.0
+76,1422,University Of Hartford,20901,Bridgeport,9003,1.0,CT,12.0,0.0,1.0,1.0,5.0,5.0,1.0
+77,1424,Wesleyan University,20901,Bridgeport,9007,1.0,CT,13.0,1.0,1.0,0.0,6.0,5.0,0.0
+78,1426,Yale University,20901,Bridgeport,9009,1.0,CT,89.0,1.0,2.0,3.0,10.0,73.0,7.0
+79,1431,University Of Delaware,19800,Wilmington,10003,3.0,DE,96.0,2.0,3.0,8.0,19.0,64.0,3.0
+80,1434,American University ,11304,Washington DC,11001,3.0,DC,15.0,0.0,1.0,0.0,1.0,13.0,0.0
+81,1444,George Washington University,11304,Washington DC,11001,3.0,DC,42.0,1.0,0.0,2.0,5.0,34.0,3.0
+82,1445,Georgetown University,11304,Washington DC,11001,3.0,DC,30.0,0.0,1.0,2.0,2.0,25.0,1.0
+83,1469,Florida Institute Of Technology,7300,Palm Bay,12009,3.0,FL,38.0,3.0,5.0,4.0,7.0,19.0,2.0
+84,1479,Embry-Riddle Aeronautical University,7500,Deltona,12127,3.0,FL,46.0,4.0,5.0,9.0,11.0,17.0,0.0
+85,1480,Florida Agricultural & Mechanical University,9900,Tallahassee,12073,3.0,FL,12.0,2.0,2.0,2.0,2.0,4.0,2.0
+86,1489,Florida State University,9900,Tallahassee,12073,3.0,FL,67.0,6.0,6.0,9.0,17.0,29.0,3.0
+87,1500,Broward College,7000,Miami,12011,3.0,FL,13.0,0.0,7.0,3.0,2.0,1.0,0.0
+88,1515,Rollins College,7400,Orlando,12095,3.0,FL,11.0,0.0,0.0,0.0,1.0,10.0,1.0
+89,1520,Seminole State College Of Florida,7400,Orlando,12117,3.0,FL,10.0,1.0,2.0,3.0,2.0,2.0,0.0
+90,1533,Tallahassee Community College,9900,Tallahassee,12073,3.0,FL,12.0,1.0,3.0,1.0,2.0,5.0,0.0
+91,1535,University Of Florida,7900,Gainesville,12001,3.0,FL,262.0,12.0,26.0,35.0,65.0,124.0,7.0
+92,1536,University Of Miami,7000,Miami,12086,3.0,FL,47.0,1.0,8.0,5.0,9.0,24.0,0.0
+93,1537,University Of South Florida,6700,Tampa,12057,3.0,FL,77.0,13.0,9.0,13.0,21.0,21.0,1.0
+94,1538,University Of Tampa ,6700,Tampa,12057,3.0,FL,10.0,1.0,1.0,1.0,1.0,6.0,0.0
+95,1564,Emory University,9100,Atlanta,13089,3.0,GA,25.0,0.0,2.0,4.0,0.0,19.0,1.0
+96,1569,Georgia Institute Of Technology,9100,Atlanta,13121,3.0,GA,370.0,7.0,21.0,42.0,70.0,230.0,18.0
+97,1570,Southern Polytechnic State University,9100,Atlanta,13067,3.0,GA,11.0,1.0,0.0,2.0,5.0,3.0,0.0
+98,1572,Georgia Southern University,8702,Statesboro,13031,3.0,GA,25.0,3.0,4.0,2.0,4.0,12.0,2.0
+99,1577,Kennesaw State University,9100,Atlanta,13067,3.0,GA,11.0,1.0,1.0,0.0,1.0,8.0,0.0
+100,1580,Mercer University,8900,Macon,13021,3.0,GA,13.0,1.0,1.0,2.0,5.0,4.0,0.0
+101,1598,University Of Georgia,9301,Winder,13059,3.0,GA,68.0,1.0,1.0,8.0,13.0,45.0,3.0
+102,1616,Boise State University,35801,Boise City,16001,4.0,ID,28.0,0.0,6.0,5.0,8.0,9.0,3.0
+103,1625,Brigham Young University-Idaho,36301,Pocatello,16065,4.0,ID,67.0,0.0,1.0,14.0,18.0,34.0,2.0
+104,1626,University Of Idaho,38402,Pullman,16057,4.0,ID,58.0,5.0,3.0,9.0,15.0,26.0,3.0
+105,1633,"Augustana College of Rock Island, IL",23801,Davenport,17161,2.0,IL,10.0,0.0,0.0,1.0,5.0,4.0,0.0
+106,1641,Bradley University,23900,Peoria,17143,2.0,IL,76.0,0.0,6.0,12.0,23.0,35.0,2.0
+107,1665,"Columbia College of Chicago, IL",24300,Chicago,17031,2.0,IL,18.0,0.0,1.0,3.0,3.0,11.0,0.0
+108,1671,Depaul University,24300,Chicago,17031,2.0,IL,26.0,0.0,2.0,3.0,7.0,14.0,1.0
+109,1691,Illinois Institute Of Technology,24300,Chicago,17031,2.0,IL,39.0,2.0,5.0,11.0,9.0,12.0,4.0
+110,1692,Illinois State University,23400,Bloomington,17113,2.0,IL,33.0,1.0,2.0,5.0,14.0,11.0,0.0
+111,1737,Northern Illinois University,24400,Rockford,17037,2.0,IL,71.0,0.0,2.0,13.0,24.0,32.0,3.0
+112,1739,Northwestern University,24300,Chicago,17031,2.0,IL,144.0,1.0,4.0,11.0,24.0,104.0,7.0
+113,1758,Southern Illinois University At Carbondale,25601,Carbondale,17077,2.0,IL,50.0,1.0,0.0,10.0,18.0,21.0,3.0
+114,1759,Southern Illinois University Edwardsville,24900,Edwardsville,17119,2.0,IL,24.0,3.0,5.0,4.0,6.0,6.0,0.0
+115,1774,University Of Chicago ,24300,Chicago,17031,2.0,IL,46.0,1.0,0.0,5.0,8.0,32.0,0.0
+116,1780,Western Illinois University,23700,Galesburg,17109,2.0,IL,15.0,1.0,0.0,1.0,7.0,6.0,0.0
+117,1781,"Wheaton College of Wheaton, IL",24300,Chicago,17043,2.0,IL,13.0,0.0,2.0,2.0,2.0,7.0,2.0
+118,1786,Ball State University,14000,Muncie,18035,2.0,IN,27.0,0.0,1.0,4.0,14.0,8.0,1.0
+119,1788,Butler University,14200,Indianapolis,18097,2.0,IN,16.0,0.0,0.0,3.0,3.0,10.0,1.0
+120,1792,DePauw University,14400,Terre Haute,18133,2.0,IN,14.0,0.0,0.0,0.0,3.0,11.0,2.0
+121,1795,University Of Evansville,14700,Evansville,18163,2.0,IN,25.0,0.0,1.0,4.0,7.0,13.0,1.0
+122,1825,Purdue University,14500,Lafayette,18157,2.0,IN,582.0,10.0,30.0,60.0,130.0,352.0,40.0
+123,1830,Rose - Hulman Institute Of Technology,14400,Terre Haute,18167,2.0,IN,58.0,0.0,5.0,10.0,21.0,22.0,5.0
+124,1838,Taylor University,14000,Muncie,18053,2.0,IN,11.0,0.0,0.0,1.0,3.0,7.0,1.0
+125,1840,University Of Notre Dame,13600,South Bend,18141,2.0,IN,107.0,2.0,6.0,7.0,14.0,78.0,5.0
+126,1842,Valparaiso University,14900,Gary,18127,2.0,IN,27.0,1.0,1.0,0.0,9.0,16.0,0.0
+127,1843,Vincennes University,14802,Vincennes,18083,2.0,IN,12.0,0.0,3.0,3.0,5.0,1.0,0.0
+128,1868,Grinnell College,21900,Marshalltown,19157,2.0,IA,17.0,0.0,2.0,1.0,3.0,11.0,0.0
+129,1869,Iowa State University Of Science & Technology,27501,Des Moines,19169,2.0,IA,301.0,16.0,15.0,56.0,93.0,121.0,15.0
+130,1874,Luther College,21802,Decorah,19191,2.0,IA,14.0,0.0,0.0,3.0,2.0,9.0,0.0
+131,1890,University Of Northern Iowa,22001,Waterloo,19013,2.0,IA,16.0,0.0,2.0,4.0,5.0,5.0,1.0
+132,1892,University Of Iowa,22100,Iowa City,19103,2.0,IA,96.0,5.0,5.0,12.0,22.0,52.0,4.0
+133,1926,Pittsburg State University,29901,Joplin,20037,2.0,KS,13.0,0.0,4.0,1.0,3.0,5.0,0.0
+134,1928,Kansas State University,29203,Manhattan,20161,2.0,KS,122.0,6.0,18.0,20.0,33.0,45.0,9.0
+135,1948,University Of Kansas,29204,Topeka,20045,2.0,KS,91.0,1.0,2.0,6.0,20.0,62.0,5.0
+136,1977,Murray State University,25402,Murray,21035,3.0,KY,10.0,0.0,1.0,3.0,4.0,2.0,1.0
+137,1999,University Of Louisville,13101,Louisville,21111,3.0,KY,42.0,3.0,3.0,6.0,12.0,18.0,0.0
+138,2008,Louisiana Tech University,4003,Ruston,22061,3.0,LA,33.0,0.0,2.0,8.0,5.0,18.0,2.0
+139,2015,University Of New Orleans ,3300,New Orleans,22071,3.0,LA,13.0,2.0,3.0,0.0,1.0,7.0,0.0
+140,2031,University Of Louisiana At Lafayette,3800,Lafayette,22055,3.0,LA,32.0,1.0,1.0,9.0,10.0,11.0,3.0
+141,2036,Bates College,20100,Portland,23001,1.0,ME,10.0,0.0,0.0,1.0,2.0,7.0,0.0
+142,2038,Bowdoin College,20100,Portland,23005,1.0,ME,21.0,0.0,1.0,3.0,1.0,16.0,0.0
+143,2039,Colby College,20100,Portland,23011,1.0,ME,17.0,0.0,0.0,0.0,1.0,16.0,3.0
+144,2058,Anne Arundel Community College,11302,Baltimore,24003,3.0,MD,13.0,0.0,2.0,2.0,4.0,5.0,0.0
+145,2077,Johns Hopkins University,11302,Baltimore,24510,3.0,MD,98.0,1.0,1.0,5.0,13.0,78.0,3.0
+146,2078,Loyola University Maryland,11302,Baltimore,24510,3.0,MD,13.0,1.0,0.0,1.0,1.0,10.0,0.0
+147,2115,Amherst College,20800,Springfield,25015,1.0,MA,11.0,0.0,0.0,0.0,2.0,9.0,0.0
+148,2121,Babson College,20500,Boston,25021,1.0,MA,10.0,2.0,1.0,0.0,2.0,5.0,1.0
+149,2124,Bentley University,20500,Boston,25017,1.0,MA,13.0,1.0,0.0,0.0,3.0,9.0,1.0
+150,2128,Boston College,20500,Boston,25017,1.0,MA,44.0,2.0,2.0,3.0,6.0,31.0,0.0
+151,2130,Boston University,20500,Boston,25025,1.0,MA,145.0,2.0,4.0,19.0,32.0,88.0,9.0
+152,2133,Brandeis University,20500,Boston,25017,1.0,MA,32.0,0.0,4.0,2.0,4.0,22.0,0.0
+153,2141,College Of The Holy Cross,20500,Boston,25027,1.0,MA,14.0,0.0,2.0,3.0,1.0,8.0,0.0
+154,2178,Massachusetts Institute Of Technology,20500,Boston,25017,1.0,MA,473.0,9.0,24.0,51.0,78.0,311.0,29.0
+155,2199,Northeastern University,20500,Boston,25025,1.0,MA,165.0,7.0,12.0,22.0,35.0,89.0,9.0
+156,2209,Smith College,20800,Springfield,25015,1.0,MA,12.0,0.0,2.0,2.0,0.0,8.0,0.0
+157,2219,Tufts University,20500,Boston,25017,1.0,MA,77.0,2.0,4.0,3.0,13.0,55.0,3.0
+158,2224,Wellesley College,20500,Boston,25021,1.0,MA,23.0,1.0,3.0,2.0,3.0,14.0,1.0
+159,2225,Wentworth Institute Of Technology,20500,Boston,25025,1.0,MA,55.0,6.0,3.0,6.0,12.0,28.0,7.0
+160,2226,Western New England University,20800,Springfield,25013,1.0,MA,25.0,0.0,0.0,7.0,8.0,10.0,1.0
+161,2233,Worcester Polytechnic Institute,20500,Boston,25027,1.0,MA,123.0,2.0,6.0,16.0,24.0,75.0,7.0
+162,2241,Calvin College,12200,Grand Rapids,26081,2.0,MI,16.0,2.0,0.0,2.0,4.0,8.0,1.0
+163,2243,Central Michigan University,11800,Mount Pleasant,26073,2.0,MI,25.0,1.0,1.0,5.0,3.0,15.0,2.0
+164,2251,Delta College,11900,Saginaw,26017,2.0,MI,10.0,0.0,2.0,2.0,2.0,4.0,1.0
+165,2259,Eastern Michigan University,11600,Detroit,26161,2.0,MI,21.0,0.0,4.0,5.0,4.0,8.0,1.0
+166,2260,Ferris State University,12001,Big Rapids,26107,2.0,MI,45.0,4.0,5.0,10.0,14.0,12.0,5.0
+167,2261,Charles Stewart Mott Community College,11600,Detroit,26049,2.0,MI,11.0,0.0,0.0,0.0,4.0,7.0,0.0
+168,2262,Kettering University,11600,Detroit,26049,2.0,MI,240.0,11.0,20.0,33.0,71.0,105.0,13.0
+169,2267,Grand Rapids Community College,12200,Grand Rapids,26081,2.0,MI,20.0,2.0,1.0,1.0,9.0,7.0,2.0
+170,2268,Grand Valley State University,12200,Grand Rapids,26139,2.0,MI,50.0,0.0,4.0,4.0,24.0,18.0,3.0
+171,2273,Hope College,12200,Grand Rapids,26139,2.0,MI,16.0,0.0,0.0,1.0,3.0,12.0,0.0
+172,2275,Kalamazoo College,12100,Kalamazoo,26077,2.0,MI,14.0,0.0,0.0,3.0,2.0,9.0,0.0
+173,2278,Lansing Community College,11700,Lansing,26065,2.0,MI,23.0,0.0,1.0,7.0,6.0,9.0,0.0
+174,2279,Lawrence Technological University,11600,Detroit,26125,2.0,MI,49.0,4.0,5.0,5.0,14.0,21.0,2.0
+175,2290,Michigan State University,11700,Lansing,26065,2.0,MI,304.0,8.0,11.0,41.0,53.0,191.0,24.0
+176,2292,Michigan Technological University,21002,Houghton,26061,2.0,MI,223.0,5.0,22.0,39.0,63.0,94.0,11.0
+177,2303,Oakland Community College,11600,Detroit,26125,2.0,MI,22.0,1.0,2.0,1.0,4.0,14.0,0.0
+178,2307,Oakland University,11600,Detroit,26125,2.0,MI,36.0,0.0,2.0,5.0,10.0,19.0,2.0
+179,2314,Saginaw Valley State University,11900,Saginaw,26017,2.0,MI,18.0,0.0,4.0,4.0,6.0,4.0,0.0
+180,2323,University Of Detroit Mercy,11600,Detroit,26163,2.0,MI,25.0,1.0,1.0,1.0,5.0,17.0,0.0
+181,2325,University Of Michigan - Ann Arbor,11600,Detroit,26161,2.0,MI,502.0,8.0,20.0,22.0,81.0,371.0,26.0
+182,2326,University Of Michigan - Dearborn,11600,Detroit,26163,2.0,MI,35.0,2.0,1.0,2.0,10.0,20.0,0.0
+183,2328,Washtenaw Community College,11600,Detroit,26161,2.0,MI,13.0,0.0,1.0,3.0,3.0,6.0,1.0
+184,2329,Wayne State University,11600,Detroit,26163,2.0,MI,30.0,2.0,4.0,3.0,10.0,11.0,0.0
+185,2330,Western Michigan University,12100,Kalamazoo,26077,2.0,MI,81.0,1.0,3.0,9.0,27.0,41.0,1.0
+186,2340,Carleton College,21302,Owatonna,27131,2.0,MN,29.0,0.0,0.0,1.0,5.0,23.0,0.0
+187,2345,"University Of Saint Thomas of Saint Paul, MN",21501,Minneapolis,27123,2.0,MN,40.0,1.0,2.0,6.0,7.0,24.0,4.0
+188,2346,Concordia College - Moorhead,26801,Fargo,27027,2.0,MN,10.0,1.0,0.0,3.0,1.0,5.0,1.0
+189,2353,Gustavus Adolphus College,21301,Mankato,27103,2.0,MN,18.0,2.0,0.0,3.0,5.0,8.0,0.0
+190,2358,Macalester College,21501,Minneapolis,27123,2.0,MN,11.0,1.0,1.0,1.0,2.0,6.0,0.0
+191,2379,"Saint John's University of Collegeville, MN",21400,St. Cloud,27145,2.0,MN,14.0,0.0,1.0,1.0,5.0,7.0,0.0
+192,2382,Saint Olaf College,21302,Owatonna,27131,2.0,MN,11.0,0.0,0.0,2.0,4.0,5.0,1.0
+193,2423,Mississippi State University,10502,Starkville,28105,3.0,MS,39.0,0.0,3.0,2.0,14.0,20.0,0.0
+194,2440,University Of Mississippi,4702,Clarksdale,28071,3.0,MS,18.0,2.0,1.0,4.0,4.0,7.0,0.0
+195,2441,University Of Southern Mississippi,2900,Hattiesburg,28035,3.0,MS,12.0,1.0,1.0,4.0,2.0,4.0,0.0
+196,2484,"Metropolitan Community College of Kansas City, MO",29502,Kansas City,29095,2.0,MO,15.0,1.0,1.0,2.0,5.0,6.0,1.0
+197,2495,Truman State University,26107,Kirksville,29001,2.0,MO,16.0,0.0,3.0,2.0,4.0,7.0,0.0
+198,2501,Southeast Missouri State University,25701,Cape Girardeau,29031,2.0,MO,12.0,0.0,1.0,2.0,6.0,3.0,0.0
+199,2503,Missouri State University,29700,Springfield,29077,2.0,MO,25.0,2.0,0.0,6.0,7.0,10.0,1.0
+200,2506,Saint Louis University,24701,St. Louis,29510,2.0,MO,38.0,0.0,3.0,5.0,12.0,18.0,0.0
+201,2520,Washington University In St. Louis,24701,St. Louis,29189,2.0,MO,117.0,3.0,3.0,5.0,15.0,91.0,4.0
+202,2531,Montana Tech Of The University Of Montana,34404,Butte-Silver Bow,30093,4.0,MT,10.0,2.0,2.0,1.0,2.0,3.0,0.0
+203,2532,Montana State University Bozeman,34402,Bozeman,30031,4.0,MT,77.0,3.0,7.0,17.0,23.0,27.0,4.0
+204,2536,University Of Montana ,34504,Missoula,30063,4.0,MT,14.0,1.0,0.0,3.0,5.0,5.0,0.0
+205,2568,"University Of Nevada , Reno",37604,Reno,32031,4.0,NV,50.0,3.0,2.0,4.0,18.0,23.0,4.0
+206,2569,University Of Nevada - Las Vegas,37901,Las Vegas,32003,4.0,NV,16.0,1.0,2.0,1.0,3.0,9.0,2.0
+207,2573,Dartmouth College,20302,Claremont,33009,1.0,NH,90.0,1.0,10.0,3.0,8.0,68.0,4.0
+208,2589,University Of New Hampshire,20600,Manchester,33017,1.0,NH,73.0,3.0,4.0,11.0,22.0,33.0,3.0
+209,2609,Rowan University,19700,Philadelphia,34015,1.0,NJ,29.0,1.0,3.0,5.0,6.0,14.0,0.0
+210,2621,New Jersey Institute Of Technology,19600,Newark,34013,1.0,NJ,35.0,3.0,5.0,7.0,7.0,13.0,0.0
+211,2627,Princeton University,19600,Newark,34021,1.0,NJ,133.0,5.0,8.0,2.0,13.0,105.0,10.0
+212,2629,"Rutgers, The State University Of New Jersey",19600,Newark,34023,1.0,NJ,155.0,9.0,13.0,27.0,31.0,75.0,7.0
+213,2639,Stevens Institute Of Technology,19600,Newark,34017,1.0,NJ,63.0,5.0,7.0,7.0,12.0,32.0,2.0
+214,2642,College Of New Jersey ,19600,Newark,34021,1.0,NJ,35.0,1.0,5.0,4.0,8.0,17.0,2.0
+215,2654,New Mexico Institute Of Mining & Technology,34902,Socorro,35053,4.0,NM,25.0,1.0,4.0,4.0,10.0,6.0,0.0
+216,2657,New Mexico State University,30601,El Paso,35013,4.0,NM,29.0,3.0,3.0,6.0,5.0,12.0,0.0
+217,2663,University Of New Mexico,34901,Albuquerque,35001,4.0,NM,35.0,3.0,4.0,6.0,3.0,19.0,2.0
+218,2668,Alfred University,18201,Olean,36003,1.0,NY,51.0,3.0,3.0,11.0,19.0,15.0,3.0
+219,2699,Clarkson University,18300,Watertown,36089,1.0,NY,99.0,2.0,8.0,16.0,28.0,45.0,3.0
+220,2701,Colgate University,17700,Syracuse,36053,1.0,NY,23.0,0.0,2.0,3.0,4.0,14.0,2.0
+221,2707,Columbia University In The City Of New York,19400,New York,36061,1.0,NY,106.0,1.0,5.0,10.0,18.0,72.0,2.0
+222,2708,Barnard College,19400,New York,36061,1.0,NY,10.0,1.0,1.0,0.0,0.0,8.0,0.0
+223,2710,Cooper Union For The Advancement Of Science & Art ,19400,New York,36061,1.0,NY,47.0,0.0,1.0,5.0,11.0,30.0,4.0
+224,2711,Cornell University,18100,Elmira,36109,1.0,NY,347.0,9.0,19.0,32.0,52.0,235.0,15.0
+225,2722,Fordham University,19400,New York,36005,1.0,NY,15.0,0.0,3.0,0.0,5.0,7.0,0.0
+226,2728,Hamilton College,17700,Syracuse,36065,1.0,NY,10.0,0.0,0.0,2.0,1.0,7.0,0.0
+227,2732,Hofstra University,19400,New York,36059,1.0,NY,17.0,1.0,0.0,4.0,3.0,9.0,0.0
+228,2739,Ithaca College,18100,Elmira,36109,1.0,NY,23.0,0.0,3.0,6.0,5.0,9.0,2.0
+229,2765,Marist College,19300,Poughkeepsie,36027,1.0,NY,18.0,0.0,1.0,2.0,6.0,9.0,2.0
+230,2785,New York University,19400,New York,36061,1.0,NY,64.0,5.0,3.0,3.0,17.0,36.0,1.0
+231,2798,Pratt Institute,19400,New York,36047,1.0,NY,27.0,2.0,3.0,7.0,4.0,11.0,8.0
+232,2803,Rensselaer Polytechnic Institute,18600,Albany,36083,1.0,NY,310.0,12.0,25.0,24.0,79.0,170.0,27.0
+233,2806,Rochester Institute Of Technology,18000,Buffalo,36055,1.0,NY,275.0,9.0,23.0,35.0,74.0,134.0,16.0
+234,2816,Siena College,18600,Albany,36001,1.0,NY,11.0,0.0,2.0,2.0,6.0,1.0,0.0
+235,2823,"Saint John's University of Queens, NY",19400,New York,36081,1.0,NY,11.0,0.0,3.0,4.0,1.0,3.0,1.0
+236,2835,State University Of New York At Albany,18600,Albany,36001,1.0,NY,24.0,4.0,3.0,2.0,2.0,13.0,1.0
+237,2836,Binghamton University,17900,Union,36007,1.0,NY,57.0,2.0,6.0,9.0,16.0,24.0,1.0
+238,2837,State University Of New York At Buffalo,18000,Buffalo,36029,1.0,NY,100.0,4.0,8.0,9.0,34.0,45.0,1.0
+239,2838,State University Of New York At Stony Brook,19400,New York,36103,1.0,NY,40.0,3.0,6.0,7.0,8.0,16.0,2.0
+240,2842,SUNY College At Buffalo,18000,Buffalo,36029,1.0,NY,11.0,1.0,1.0,4.0,4.0,1.0,2.0
+241,2845,SUNY College At Geneseo,18000,Buffalo,36051,1.0,NY,16.0,0.0,0.0,1.0,5.0,10.0,0.0
+242,2854,SUNY College Of Technology At Alfred,18201,Olean,36003,1.0,NY,12.0,0.0,1.0,5.0,3.0,3.0,1.0
+243,2862,Broome Community College,17900,Union,36007,1.0,NY,13.0,1.0,0.0,4.0,5.0,3.0,0.0
+244,2866,Fashion Institute Of Technology,19400,New York,36061,1.0,NY,18.0,0.0,3.0,5.0,5.0,5.0,0.0
+245,2868,Hudson Valley Community College,18600,Albany,36083,1.0,NY,13.0,0.0,1.0,2.0,5.0,5.0,0.0
+246,2872,Monroe Community College,18000,Buffalo,36055,1.0,NY,16.0,0.0,1.0,5.0,4.0,6.0,0.0
+247,2878,Suffolk County Community College,19400,New York,36103,1.0,NY,16.0,1.0,3.0,3.0,3.0,6.0,0.0
+248,2882,Syracuse University,17700,Syracuse,36067,1.0,NY,91.0,4.0,4.0,7.0,20.0,56.0,12.0
+249,2889,"Union College of Schenectady, NY",18600,Albany,36093,1.0,NY,25.0,0.0,1.0,2.0,7.0,15.0,0.0
+250,2894,University Of Rochester,18000,Buffalo,36055,1.0,NY,93.0,2.0,3.0,9.0,22.0,57.0,2.0
+251,2903,Yeshiva University,19400,New York,36061,1.0,NY,12.0,1.0,1.0,0.0,2.0,8.0,2.0
+252,2905,North Carolina Agricultural & Technical State University,500,Greensboro,37081,3.0,NC,12.0,0.0,2.0,5.0,0.0,5.0,0.0
+253,2906,Appalachian State University,1001,Boone,37189,3.0,NC,15.0,0.0,0.0,1.0,3.0,11.0,1.0
+254,2918,Davidson College,900,Charlotte,37119,3.0,NC,13.0,0.0,1.0,1.0,1.0,10.0,0.0
+255,2920,Duke University,1701,Raleigh,37063,3.0,NC,148.0,3.0,7.0,3.0,19.0,116.0,8.0
+256,2923,East Carolina University,1900,Jacksonville,37147,3.0,NC,16.0,0.0,0.0,0.0,7.0,9.0,1.0
+257,2972,North Carolina State University,1701,Raleigh,37183,3.0,NC,308.0,7.0,21.0,45.0,65.0,170.0,22.0
+258,2974,University Of North Carolina - Chapel Hill,1701,Raleigh,37135,3.0,NC,76.0,0.0,4.0,6.0,18.0,48.0,0.0
+259,2975,University Of North Carolina - Charlotte,900,Charlotte,37119,3.0,NC,51.0,1.0,3.0,9.0,15.0,23.0,5.0
+260,2978,Wake Forest University,401,Winston-Salem,37067,3.0,NC,18.0,0.0,0.0,1.0,3.0,14.0,0.0
+261,2984,University Of North Carolina At Wilmington ,1500,Wilmington,37129,3.0,NC,13.0,0.0,1.0,3.0,5.0,4.0,0.0
+262,2997,North Dakota State University - Main Campus - Fargo,26801,Fargo,38017,2.0,ND,100.0,4.0,7.0,20.0,34.0,35.0,2.0
+263,3005,University Of North Dakota,26704,Grand Forks,38035,2.0,ND,38.0,1.0,2.0,11.0,16.0,8.0,1.0
+264,3014,Baldwin Wallace University,15200,Cleveland,39035,2.0,OH,11.0,0.0,1.0,0.0,3.0,7.0,0.0
+265,3018,Bowling Green State University,13501,Toledo,39173,2.0,OH,25.0,1.0,2.0,5.0,10.0,7.0,0.0
+266,3024,Case Western Reserve University,15200,Cleveland,39035,2.0,OH,165.0,4.0,15.0,23.0,35.0,88.0,9.0
+267,3025,Cedarville University,12501,Dayton,39057,2.0,OH,26.0,0.0,2.0,2.0,10.0,12.0,0.0
+268,3032,Cleveland State University,15200,Cleveland,39035,2.0,OH,14.0,0.0,0.0,7.0,3.0,4.0,2.0
+269,3037,College Of Wooster ,15000,Canton,39169,2.0,OH,15.0,2.0,1.0,2.0,5.0,5.0,0.0
+270,3042,Denison University,15900,Columbus,39089,2.0,OH,10.0,0.0,1.0,1.0,1.0,7.0,0.0
+271,3051,Kent State University,15200,Cleveland,39133,2.0,OH,41.0,2.0,4.0,6.0,19.0,10.0,0.0
+272,3065,Kenyon College,15900,Columbus,39083,2.0,OH,11.0,0.0,0.0,0.0,3.0,8.0,0.0
+273,3077,Miami University,12701,Cincinnati,39017,2.0,OH,71.0,0.0,1.0,7.0,14.0,49.0,3.0
+274,3078,Wright State University,12501,Dayton,39057,2.0,OH,25.0,0.0,0.0,10.0,5.0,10.0,0.0
+275,3086,Oberlin College,15100,Lorain,39093,2.0,OH,16.0,0.0,0.0,1.0,2.0,13.0,1.0
+277,3100,Ohio University,15800,Athens,39009,2.0,OH,78.0,4.0,3.0,10.0,16.0,45.0,1.0
+278,3119,Sinclair Community College,12501,Dayton,39113,2.0,OH,22.0,0.0,3.0,3.0,9.0,7.0,2.0
+279,3123,University Of Akron ,15200,Cleveland,39153,2.0,OH,95.0,4.0,8.0,22.0,39.0,22.0,6.0
+280,3125,University Of Cincinnati,12701,Cincinnati,39061,2.0,OH,176.0,3.0,9.0,21.0,66.0,77.0,33.0
+281,3127,University Of Dayton,12501,Dayton,39113,2.0,OH,83.0,1.0,4.0,11.0,15.0,52.0,1.0
+282,3131,University Of Toledo,13501,Toledo,39095,2.0,OH,115.0,1.0,14.0,18.0,41.0,41.0,4.0
+283,3145,Youngstown State University,16400,Youngstown,39099,2.0,OH,20.0,5.0,1.0,6.0,6.0,2.0,0.0
+284,3170,Oklahoma State University,30401,Stillwater,40119,3.0,OK,78.0,2.0,8.0,12.0,20.0,36.0,2.0
+285,3184,University Of Oklahoma,33803,Oklahoma City,40027,3.0,OK,85.0,6.0,6.0,11.0,24.0,38.0,2.0
+286,3185,University Of Tulsa ,30402,Tulsa,40143,3.0,OK,17.0,1.0,3.0,6.0,1.0,6.0,0.0
+287,3210,Oregon State University,38901,Eugene,41003,4.0,OR,126.0,3.0,10.0,18.0,32.0,63.0,4.0
+288,3211,Oregon Institute Of Technology,36501,Klamath Falls,41035,4.0,OR,28.0,1.0,3.0,6.0,12.0,6.0,1.0
+289,3213,Portland Community College,38801,Portland,41051,4.0,OR,19.0,1.0,3.0,6.0,1.0,8.0,1.0
+290,3216,Portland State University,38801,Portland,41051,4.0,OR,19.0,1.0,4.0,1.0,6.0,7.0,0.0
+291,3217,Reed College,38801,Portland,41051,4.0,OR,13.0,0.0,1.0,0.0,2.0,10.0,1.0
+292,3218,Chemeketa Community College,38901,Eugene,41047,4.0,OR,13.0,1.0,2.0,4.0,3.0,3.0,0.0
+293,3223,University Of Oregon,38901,Eugene,41039,4.0,OR,39.0,4.0,6.0,5.0,3.0,21.0,2.0
+294,3224,University Of Portland,38801,Portland,41051,4.0,OR,15.0,2.0,2.0,1.0,3.0,7.0,0.0
+295,3238,Bucknell University,18700,Sunbury,42119,1.0,PA,49.0,1.0,6.0,6.0,7.0,29.0,2.0
+296,3239,Bucks County Community College,19700,Philadelphia,42017,1.0,PA,10.0,0.0,0.0,2.0,4.0,4.0,1.0
+297,3242,Carnegie Mellon University,16300,Pittsburgh,42003,1.0,PA,350.0,4.0,13.0,36.0,62.0,235.0,28.0
+298,3274,Haverford College,19700,Philadelphia,42091,1.0,PA,14.0,0.0,0.0,0.0,2.0,12.0,1.0
+299,3284,Lafayette College,19000,Allentown,42095,1.0,PA,33.0,0.0,1.0,5.0,6.0,21.0,1.0
+300,3289,Lehigh University,19000,Allentown,42095,1.0,PA,106.0,5.0,6.0,11.0,16.0,68.0,10.0
+301,3325,Millersville University Of Pennsylvania,19100,Reading,42071,1.0,PA,17.0,1.0,0.0,3.0,10.0,3.0,0.0
+302,3326,Shippensburg University Of Pennsylvania,19200,Harrisburg,42041,1.0,PA,12.0,0.0,1.0,1.0,4.0,6.0,0.0
+303,3328,West Chester University Of Pennsylvania,19700,Philadelphia,42029,1.0,PA,12.0,0.0,2.0,4.0,0.0,6.0,0.0
+304,3329,Pennsylvania State University ,16100,State College,42027,1.0,PA,471.0,15.0,35.0,57.0,139.0,225.0,29.0
+305,3354,Philadelphia University,19700,Philadelphia,42101,1.0,PA,29.0,0.0,2.0,3.0,10.0,14.0,11.0
+306,3370,Swarthmore College,19700,Philadelphia,42045,1.0,PA,23.0,0.0,2.0,0.0,2.0,19.0,0.0
+307,3371,Temple University,19700,Philadelphia,42101,1.0,PA,28.0,1.0,2.0,8.0,4.0,13.0,1.0
+308,3378,University Of Pennsylvania,19700,Philadelphia,42101,1.0,PA,153.0,6.0,9.0,8.0,18.0,112.0,5.0
+309,3388,Villanova University,19700,Philadelphia,42045,1.0,PA,48.0,1.0,2.0,4.0,7.0,34.0,1.0
+310,3395,Pennsylvania College Of Technology,18900,Williamsport,42081,1.0,PA,23.0,0.0,2.0,8.0,9.0,4.0,1.0
+311,3401,Brown University,20401,Providence,44007,1.0,RI,124.0,2.0,3.0,12.0,18.0,89.0,6.0
+312,3404,Johnson & Wales University,20401,Providence,44007,1.0,RI,14.0,0.0,1.0,2.0,5.0,6.0,0.0
+313,3406,Providence College,20401,Providence,44007,1.0,RI,11.0,0.0,0.0,1.0,2.0,8.0,0.0
+314,3409,Rhode Island School Of Design,20401,Providence,44007,1.0,RI,29.0,3.0,1.0,2.0,8.0,15.0,8.0
+315,3410,Roger Williams University,20401,Providence,44001,1.0,RI,16.0,0.0,0.0,4.0,2.0,10.0,1.0
+316,3414,University Of Rhode Island,20401,Providence,44009,1.0,RI,48.0,0.0,1.0,7.0,14.0,26.0,2.0
+317,3425,Clemson University,8300,Greenville,45077,3.0,SC,117.0,1.0,11.0,17.0,32.0,56.0,6.0
+318,3428,College Of Charleston,8202,Charleston,45019,3.0,SC,21.0,2.0,0.0,2.0,2.0,15.0,2.0
+319,3434,Furman University,8300,Greenville,45045,3.0,SC,12.0,0.0,0.0,1.0,3.0,8.0,0.0
+320,3482,Christian Brothers University,5202,Memphis,47157,3.0,TN,12.0,2.0,0.0,1.0,3.0,6.0,0.0
+321,3509,University Of Memphis ,5202,Memphis,47157,3.0,TN,23.0,1.0,1.0,5.0,6.0,10.0,1.0
+322,3510,Middle Tennessee State University,5600,Nashville,47149,3.0,TN,19.0,1.0,3.0,3.0,6.0,6.0,1.0
+323,3523,Tennessee Technological University,6302,Cookeville,47141,3.0,TN,37.0,2.0,2.0,12.0,11.0,10.0,1.0
+324,3535,Vanderbilt University,5600,Nashville,47037,3.0,TN,88.0,1.0,3.0,8.0,11.0,65.0,2.0
+325,3545,Baylor University,32801,Waco,48309,3.0,TX,43.0,2.0,4.0,1.0,11.0,25.0,2.0
+326,3549,Blinn College,32000,Houston,48477,3.0,TX,13.0,1.0,2.0,4.0,2.0,4.0,0.0
+327,3581,Lamar University,32100,Beaumont,48245,3.0,TX,12.0,0.0,0.0,1.0,4.0,7.0,0.0
+328,3584,Letourneau University,33400,Longview,48183,3.0,TX,23.0,4.0,3.0,2.0,6.0,8.0,0.0
+329,3594,University Of North Texas,33100,Dallas,48121,3.0,TX,31.0,0.0,5.0,3.0,3.0,20.0,0.0
+330,3599,University Of Texas - Pan American,31600,Brownsville,48215,3.0,TX,11.0,2.0,3.0,3.0,1.0,2.0,1.0
+331,3604,Rice University,32000,Houston,48201,3.0,TX,103.0,2.0,5.0,7.0,9.0,80.0,3.0
+332,3606,Sam Houston State University,32201,Huntsville,48471,3.0,TX,10.0,1.0,3.0,0.0,3.0,3.0,0.0
+333,3613,Southern Methodist University,33100,Dallas,48113,3.0,TX,31.0,1.0,0.0,4.0,4.0,22.0,0.0
+334,3615,Texas State University,31201,Austin,48209,3.0,TX,28.0,0.0,2.0,3.0,8.0,15.0,1.0
+335,3626,Tarrant County College District,33000,Fort Worth,48439,3.0,TX,18.0,1.0,2.0,0.0,7.0,8.0,1.0
+336,3632,Texas A&M University,31800,College Station,48041,3.0,TX,241.0,4.0,18.0,19.0,53.0,147.0,8.0
+337,3636,Texas Christian University,33000,Fort Worth,48439,3.0,TX,19.0,0.0,3.0,1.0,1.0,14.0,0.0
+338,3647,Trinity University,31301,San Antonio,48029,3.0,TX,23.0,0.0,0.0,3.0,6.0,14.0,1.0
+339,3656,University Of Texas At Arlington,33000,Fort Worth,48439,3.0,TX,22.0,3.0,0.0,3.0,7.0,9.0,0.0
+340,3670,Brigham Young University,36000,Provo,49049,4.0,UT,298.0,8.0,12.0,29.0,76.0,173.0,8.0
+341,3671,Dixie State University,35901,St. George,49053,4.0,UT,19.0,3.0,1.0,7.0,4.0,4.0,0.0
+342,3675,University Of Utah,36100,Salt Lake City,49035,4.0,UT,107.0,3.0,9.0,11.0,28.0,56.0,5.0
+343,3677,Utah State University,36200,Logan,49005,4.0,UT,68.0,1.0,7.0,13.0,23.0,24.0,3.0
+344,3679,Snow College,35902,Price,49039,4.0,UT,11.0,2.0,1.0,1.0,4.0,3.0,0.0
+345,3680,Weber State University,36100,Salt Lake City,49057,4.0,UT,32.0,1.0,1.0,6.0,11.0,13.0,0.0
+346,3691,Middlebury College,20200,Burlington,50001,1.0,VT,16.0,0.0,1.0,0.0,2.0,13.0,0.0
+347,3696,University Of Vermont And State Agricultural College,20200,Burlington,50007,1.0,VT,39.0,2.0,2.0,4.0,9.0,22.0,2.0
+348,3705,College Of William & Mary,2500,Newport News,51830,3.0,VA,31.0,0.0,2.0,0.0,0.0,29.0,0.0
+349,3721,James Madison University,17200,Harrisonburg,51660,3.0,VA,41.0,2.0,1.0,4.0,5.0,29.0,1.0
+350,3727,Northern Virginia Community College,11304,Washington DC,51059,3.0,VA,37.0,4.0,4.0,4.0,10.0,15.0,0.0
+351,3728,Old Dominion University,2000,Virginia Beach,51710,3.0,VA,17.0,0.0,1.0,4.0,5.0,7.0,0.0
+352,3732,Radford University,16600,Roanoke,51750,3.0,VA,13.0,1.0,0.0,2.0,0.0,10.0,0.0
+353,3735,Virginia Commonwealth University,2400,Richmond,51760,3.0,VA,42.0,2.0,2.0,10.0,6.0,22.0,2.0
+354,3744,University Of Richmond,2400,Richmond,51760,3.0,VA,13.0,0.0,0.0,0.0,1.0,12.0,1.0
+355,3745,University Of Virginia,17600,Charlottesville,51540,3.0,VA,109.0,0.0,4.0,7.0,19.0,79.0,4.0
+356,3746,University Of Mary Washington,11301,Fredericksburg,51630,3.0,VA,10.0,0.0,0.0,1.0,1.0,8.0,1.0
+357,3749,George Mason University,11304,Washington DC,51059,3.0,VA,26.0,2.0,2.0,3.0,4.0,15.0,0.0
+358,3753,Virginia Military Institute,17300,Staunton,51678,3.0,VA,10.0,1.0,1.0,0.0,4.0,4.0,0.0
+359,3754,Virginia Polytechnic Institute & State University,16600,Roanoke,51121,3.0,VA,281.0,7.0,8.0,22.0,42.0,202.0,13.0
+360,3769,Bellevue College,39400,Seattle,53033,4.0,WA,36.0,4.0,3.0,2.0,14.0,13.0,2.0
+361,3773,Clark College,38801,Portland,53011,4.0,WA,11.0,1.0,1.0,3.0,2.0,4.0,1.0
+362,3778,Gonzaga University,38601,Spokane,53063,4.0,WA,29.0,1.0,2.0,1.0,6.0,19.0,1.0
+363,3785,Pacific Lutheran University,39400,Seattle,53053,4.0,WA,17.0,1.0,0.0,3.0,7.0,6.0,0.0
+364,3788,Seattle Pacific University,39400,Seattle,53033,4.0,WA,13.0,1.0,0.0,2.0,4.0,6.0,5.0
+365,3790,Seattle University,39400,Seattle,53033,4.0,WA,15.0,0.0,0.0,4.0,1.0,10.0,2.0
+366,3797,University Of Puget Sound,39400,Seattle,53053,4.0,WA,20.0,0.0,1.0,2.0,5.0,12.0,1.0
+367,3798,University Of Washington System,39400,Seattle,53033,4.0,WA,300.0,14.0,22.0,23.0,71.0,170.0,25.0
+368,3800,Washington State University,38402,Pullman,53075,4.0,WA,73.0,2.0,7.0,10.0,11.0,43.0,0.0
+369,3802,Western Washington University,39302,Bellingham,53073,4.0,WA,74.0,4.0,3.0,11.0,20.0,36.0,9.0
+370,3803,Whitman College,39100,Kennewick,53071,4.0,WA,13.0,0.0,2.0,0.0,2.0,9.0,0.0
+371,3815,Marshall University,17100,Huntington,54011,3.0,WV,12.0,0.0,2.0,2.0,3.0,5.0,1.0
+372,3856,Lawrence University Of Wisconsin,22500,Oshkosh,55087,2.0,WI,10.0,0.0,0.0,2.0,1.0,7.0,0.0
+373,3863,Marquette University,24100,Milwaukee,55079,2.0,WI,77.0,3.0,3.0,11.0,14.0,46.0,5.0
+374,3868,Milwaukee School Of Engineering,24100,Milwaukee,55079,2.0,WI,108.0,1.0,12.0,16.0,30.0,49.0,6.0
+375,3932,University Of Wyoming,28704,Laramie,56001,4.0,WY,25.0,1.0,1.0,4.0,12.0,7.0,0.0
+376,3954,University Of Central Florida,7400,Orlando,12095,3.0,FL,114.0,7.0,6.0,23.0,31.0,47.0,5.0
+377,3961,Harper College,24300,Chicago,17031,2.0,IL,12.0,2.0,1.0,3.0,2.0,4.0,0.0
+378,4003,Central Texas College District,32900,Killeen,48027,3.0,TX,18.0,3.0,5.0,2.0,4.0,4.0,0.0
+379,4027,Utah Valley University,36000,Provo,49049,4.0,UT,53.0,1.0,5.0,6.0,15.0,26.0,2.0
+380,4076,Kirkwood Community College,22200,Cedar Rapids,19113,2.0,IA,13.0,1.0,2.0,6.0,4.0,0.0,0.0
+381,4452,Montgomery County Community College,19700,Philadelphia,42091,1.0,PA,11.0,1.0,0.0,2.0,2.0,6.0,0.0
+382,4641,Dunwoody College Of Technology,21501,Minneapolis,27053,2.0,MN,13.0,0.0,1.0,5.0,4.0,3.0,0.0
+383,4673,Baker College,11600,Detroit,26049,2.0,MI,10.0,0.0,2.0,1.0,4.0,3.0,0.0
+384,4742,Central New Mexico Community College,34901,Albuquerque,35001,4.0,NM,12.0,3.0,2.0,1.0,2.0,4.0,0.0
+385,4844,Wake Technical Community College,1701,Raleigh,37183,3.0,NC,11.0,0.0,0.0,2.0,3.0,6.0,0.0
+386,4878,Clackamas Community College,38801,Portland,41005,4.0,OR,10.0,0.0,0.0,3.0,7.0,0.0,1.0
+387,5220,Salt Lake Community College,36100,Salt Lake City,49035,4.0,UT,24.0,0.0,2.0,3.0,3.0,16.0,1.0
+388,5294,Waukesha County Technical College,24100,Milwaukee,55133,2.0,WI,12.0,0.0,1.0,3.0,5.0,3.0,0.0
+389,6656,College Of Du Page,24300,Chicago,17043,2.0,IL,14.0,3.0,2.0,0.0,2.0,7.0,0.0
+390,6750,Valencia College,7400,Orlando,12095,3.0,FL,30.0,4.0,5.0,7.0,7.0,7.0,1.0
+391,6753,Illinois Central College,23900,Peoria,17179,2.0,IL,18.0,0.0,1.0,2.0,8.0,7.0,2.0
+392,6771,College For Creative Studies,11600,Detroit,26163,2.0,MI,31.0,2.0,2.0,4.0,4.0,19.0,9.0
+393,6867,Columbus State Community College,15900,Columbus,39049,2.0,OH,13.0,1.0,2.0,2.0,5.0,3.0,1.0
+394,7120,Des Moines Area Community College,27501,Des Moines,19153,2.0,IA,13.0,0.0,3.0,3.0,3.0,4.0,2.0
+395,7470,Art Institute Of Pittsburgh ,16300,Pittsburgh,42003,1.0,PA,18.0,2.0,7.0,4.0,1.0,4.0,3.0
+396,7531,Academy Of Art University,37800,San Francisco,6075,4.0,CA,15.0,2.0,3.0,1.0,1.0,8.0,2.0
+397,7692,Moraine Valley Community College,24300,Chicago,17031,2.0,IL,14.0,1.0,2.0,2.0,1.0,8.0,2.0
+398,7694,College Of Lake County,24300,Chicago,17097,2.0,IL,10.0,0.0,1.0,0.0,2.0,7.0,0.0
+399,7870,Hillsborough Community College,6700,Tampa,12057,3.0,FL,11.0,0.0,1.0,2.0,4.0,4.0,0.0
+400,8244,Johnson County Community College,29502,Kansas City,20091,2.0,KS,14.0,1.0,3.0,3.0,3.0,4.0,0.0
+401,8903,College Of The Canyons,38300,Los Angeles,6037,4.0,CA,10.0,0.0,0.0,1.0,3.0,6.0,0.0
+402,8906,Macomb Community College,11600,Detroit,26099,2.0,MI,23.0,1.0,1.0,3.0,8.0,10.0,2.0
+403,8918,Saddleback College,38300,Los Angeles,6059,4.0,CA,20.0,1.0,2.0,3.0,7.0,7.0,1.0
+404,9058,"Bethel University of Saint Paul, MN",21501,Minneapolis,27123,2.0,MN,16.0,0.0,1.0,1.0,6.0,8.0,0.0
+405,9256,Moraine Park Technical College,22500,Oshkosh,55039,2.0,WI,17.0,0.0,2.0,2.0,8.0,5.0,2.0
+406,9275,Northern Kentucky University,12701,Cincinnati,21037,3.0,KY,13.0,0.0,1.0,3.0,3.0,6.0,2.0
+407,9345,Richard Stockton College Of New Jersey ,19700,Philadelphia,34001,1.0,NJ,11.0,1.0,2.0,0.0,2.0,6.0,0.0
+408,9741,University Of Texas At Dallas,33100,Dallas,48085,3.0,TX,36.0,0.0,5.0,4.0,9.0,18.0,0.0
+409,9763,Tulsa Community College,30402,Tulsa,40143,3.0,OK,12.0,2.0,2.0,4.0,3.0,1.0,0.0
+410,9841,University Of North Florida,7600,Jacksonville,12031,3.0,FL,16.0,0.0,3.0,1.0,5.0,7.0,2.0
+411,9896,Oakton Community College,24300,Chicago,17031,2.0,IL,11.0,1.0,1.0,1.0,3.0,5.0,0.0
+412,10149,Pepperdine University,38300,Los Angeles,6037,4.0,CA,11.0,1.0,0.0,0.0,2.0,8.0,1.0
+413,10195,Art Institute Of Fort Lauderdale ,7000,Miami,12011,3.0,FL,12.0,0.0,2.0,1.0,3.0,6.0,2.0
+414,10684,Erie Community College,18000,Buffalo,36029,1.0,NY,13.0,0.0,2.0,4.0,4.0,3.0,0.0
+415,11145,Lone Star College-North Harris,32000,Houston,48339,3.0,TX,28.0,3.0,4.0,5.0,10.0,6.0,0.0
+416,11644,University Of Maryland University College,11304,Washington DC,24033,3.0,MD,14.0,3.0,3.0,1.0,6.0,1.0,1.0
+417,11649,Loyola Marymount University,38300,Los Angeles,6037,4.0,CA,21.0,0.0,2.0,2.0,2.0,15.0,2.0
+418,20662,"New School, The",19400,New York,36061,1.0,NY,16.0,0.0,0.0,0.0,1.0,15.0,2.0
+419,20771,Milwaukee Institute Of Art & Design,24100,Milwaukee,55079,2.0,WI,13.0,0.0,0.0,1.0,3.0,9.0,4.0
+420,20789,Art Institute Of Colorado ,28900,Denver,8031,4.0,CO,13.0,3.0,0.0,0.0,3.0,7.0,2.0
+421,21415,Savannah College Of Art And Design,8800,Savannah,13051,3.0,GA,44.0,4.0,1.0,6.0,9.0,24.0,12.0
+422,22913,Art Institute Of Seattle ,39400,Seattle,53033,4.0,WA,11.0,0.0,2.0,3.0,2.0,4.0,2.0
